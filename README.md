@@ -36,6 +36,10 @@ table_TED/ => tables for TrackletEngineDisplaced.
 
 table_TRE/ => tables for TripletEngine.
 
+*** MODULES FOR SUMMER CHAIN ***
+
+There are three files included, `reduced_*`, that describe the summer chain configuration, and need to be loaded in order to create test vectors for it. These files must be included in the `TrackFindingTracklet/data` directory in order to run.
+
 *** CHI2 FIT ***
 
 This contains track derivatives used for the chi2-based track fitting. 
